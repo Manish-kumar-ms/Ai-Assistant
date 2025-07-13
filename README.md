@@ -143,6 +143,14 @@ GEMINI_API_URL=
 
 ---
 
+You can use the following test account to try the app without signing up:
+
+```json
+{
+  "email": "rahul@gmail.com",
+  "password": "123456"
+}
+
 ## 👨‍💻 Author
 
 **Manish Kumar**
