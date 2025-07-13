@@ -5,8 +5,9 @@ A smart and interactive AI-powered virtual assistant web application. Users can 
 
 ## 🌐 Live Demo
 
-Frontend : https://ai-assistant-frontend-1yoe.onrender.com
-Backend :  https://ai-assistant-backend-6t51.onrender.com
+- **Frontend**: [https://ai-assistant-frontend-1yoe.onrender.com](https://ai-assistant-frontend-1yoe.onrender.com)  
+- **Backend**: [https://ai-assistant-backend-6t51.onrender.com](https://ai-assistant-backend-6t51.onrender.com)
+
 
 ---
 
