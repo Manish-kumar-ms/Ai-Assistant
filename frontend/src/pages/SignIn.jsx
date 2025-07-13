@@ -5,7 +5,7 @@ import bg from "../assets/authBg.png";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useContext } from "react";
-import { userDataContext } from "../context/userContext.jsx";
+import { userDataContext } from "../context/UserContext.jsx";
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
 
